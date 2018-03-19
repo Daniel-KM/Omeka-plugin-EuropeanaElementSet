@@ -33,8 +33,8 @@ Warning
 
 Use it at your own risk.
 
-It's always recommended to backup your files and database regularly so you can
-roll back if needed.
+It’s always recommended to backup your files and your databases and to check
+your archives regularly so you can roll back if needed.
 
 
 Troubleshooting
@@ -80,14 +80,14 @@ Copyright
 * Copyright Daniel Berthereau, 2015
 
 
-[Europeana Element Set]: https://github.com/Daniel-KM/EuropeanaElementSet
+[Europeana Element Set]: https://github.com/Daniel-KM/Omeka-plugin-EuropeanaElementSet
 [Omeka]: https://omeka.org
 [Europeana Semantic Elements]: http://pro.europeana.eu/share-your-data/data-guidelines/ese-documentation
-[Dublin Core Extended]: https://github.com/Daniel-KM/DublinCoreExtended
-[Hide Elements]: https://github.com/Daniel-KM/HideElements
+[Dublin Core Extended]: https://github.com/Daniel-KM/Omeka-plugin-DublinCoreExtended
+[Hide Elements]: https://github.com/Daniel-KM/Omeka-plugin-HideElements
 [Redact Elements]: https://github.com/omeka/plugin-RedactElements
 [Simple Vocab]: https://github.com/omeka/plugin-SimpleVocab
-[plugin issues]: https://github.com/Daniel-KM/EuropeanaElementSet/issues
+[plugin issues]: https://github.com/Daniel-KM/Omeka-plugin-EuropeanaElementSet/issues
 [CeCILL v2.1]: https://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html
 [GNU/GPL]: https://www.gnu.org/licenses/gpl-3.0.html
 [FSF]: https://www.fsf.org

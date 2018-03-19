@@ -91,7 +91,7 @@ class EuropeanaElementSetPlugin extends Omeka_Plugin_AbstractPlugin
     }
 
     /**
-     * Display the uninstall message.
+     * Appends a warning message to the uninstall confirmation page.
      */
     public function hookUninstallMessage()
     {
